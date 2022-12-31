@@ -1,20 +1,23 @@
-### Hey there, I'm Ayaan! 👋
-_________________________________________________________________________________________________________________________________________________________________________
+<h1 align="center">Hi 👋, I'm Ayaan</h1>
+<h3 align="center">A learner</h3>
 
+- 🔭 I’m currently pursuing ****B.Tech** in **Electronics & Communication Engineering** from Chandigarh Engineering College ,Landran.**
 
-<!--**Ayaan49/Ayaan49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 I’m currently learning:- **DSA & DevOps.**
 
-Here are some ideas to get you started:-->
+- 📝 I write blogs at [hashnode](https://hashnode.com/@Ayaan49)
 
-- 🔭 I’m currently pursuing **B.Tech** in **Electronics & Communication Engineering** from Chandigarh Engineering College ,Landran.
-- 🧑‍💻 I’m currently learning:- DSA & DevOps.
-- 📫 How to reach me:- ayaanbordoloi25@gmail.com
-- ✍️ I write blogs at hashnode, you can read it [here](https://hashnode.com/@Ayaan49).
+- 📫 How to reach me **ayaanbordoloi25@gmail.com**
 
-_________________________________________________________________________________________________________________________________________________________________________
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/twtayaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twtayaan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayaan49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayaan49" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@ayaan49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@ayaan49" height="30" width="40" /></a>
+<a href="https://discord.gg/ayaan49#7621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ayaan49#7621" height="30" width="40" /></a>
+</p>
 
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=ayaan49&show_icons=true&theme=tokyonight" 
-/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaan49&show_icons=true&locale=en" alt="ayaan49" /></p>
