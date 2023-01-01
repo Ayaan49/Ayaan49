@@ -8,7 +8,7 @@
 
 - 🧑‍💻 I’m currently learning:- **DSA & DevOps.**
 
-- 📝 I write blogs at hashnode. [hashnode](https://hashnode.com/@Ayaan49)
+- 📝 I write blogs at [hashnode](https://hashnode.com/@Ayaan49)
 
 - 📫 How to reach me **ayaanbordoloi25@gmail.com**
 
