@@ -1,4 +1,3 @@
-![Black Modern Personal Men Twitter Header (3)](https://user-images.githubusercontent.com/64208057/210185241-91001d83-a4cc-428a-9ae0-1d037ea0fc71.png)
 <h2> Hey there! I'm Ayaan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
