@@ -53,6 +53,11 @@
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#5202](https://github.com/mindsdb/mindsdb/issues/5202) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#5202](https://github.com/mindsdb/mindsdb/issues/5202) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+3. 🗣 Commented on [#5202](https://github.com/mindsdb/mindsdb/issues/5202) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+4. 🗣 Commented on [#5202](https://github.com/mindsdb/mindsdb/issues/5202) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+5. 🗣 Commented on [#3125](https://github.com/questdb/questdb/issues/3125) in [questdb/questdb](https://github.com/questdb/questdb)
 <!--END_SECTION:activity-->
 
  
