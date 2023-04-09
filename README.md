@@ -45,6 +45,10 @@
 ## Recent articles on Hashnode
 
 <!-- BLOG-POST-LIST:START -->
+- [Binary representations  of IP addresses](https://ayaan49.hashnode.dev/binary-representations-of-ip-addresses)
+- [We are out of IP addresses but NAT saved us!](https://ayaan49.hashnode.dev/we-are-out-of-ip-addresses-but-nat-saved-us)
+- [IP Address-Building Block of the Internet](https://ayaan49.hashnode.dev/ip-address-building-block-of-the-internet)
+- [Install Ubuntu on VirtualBox](https://ayaan49.hashnode.dev/install-ubuntu-on-virtualbox)
 <!-- BLOG-POST-LIST:END -->
  
 # Recent Activity :zap:
