@@ -1,32 +1,71 @@
 ![Black Modern Personal Men Twitter Header (3)](https://user-images.githubusercontent.com/64208057/210185241-91001d83-a4cc-428a-9ae0-1d037ea0fc71.png)
-<h1 align="center">Hi 👋, I'm Ayaan</h1>
-<h3 align="center">A learner</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
+<h2> Hey there! I'm Ayaan.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaan49&label=Profile%20views&color=0e75b6&style=flat" alt="ayaan49" /> </p>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently pursuing ****B.Tech** in **Electronics & Communication Engineering** from Chandigarh Engineering College ,Landran.**
+- 🤔 &nbsp; Currently Learning:- ``DevOps and DSA``.
+- 🎓 &nbsp; I am an engineering undergraduate interested in DevOps , OpenSource and Cloud technologies.
+- ✍️ &nbsp; Read my Blogs at <a href="https://hashnode.com/@Ayaan49">Ayaan's blog</a>
 
-- 🧑‍💻 I’m currently learning:- **DSA & DevOps.**
+### 🧰 Languages and Tools
 
-- 📝 I write blogs at [hashnode](https://hashnode.com/@Ayaan49)
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-- 📫 How to reach me **ayaanbordoloi25@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/twtayaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twtayaan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayaan49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayaan49" height="30" width="40" /></a>
-<a href="https://instagram.com/ayaan49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayaan49" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ayaan49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ayaan49" height="30" width="40" /></a>
-<a href="https://discord.gg/#7621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7621" height="30" width="40" /></a>
-</p>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaan49&show_icons=true&locale=en&layout=compact" alt="ayaan49" /></p>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Vagrant" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
+          
+<img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaan49&show_icons=true&locale=en" alt="ayaan49" /></p>
+<img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+                     
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaan49&" alt="ayaan49" /></p>
+#
+
+
+[![Ayaan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayaan49&theme=dracula)](https://github.com/Ayaan49/github-readme-activity-graph)
+
+<a href="https://github.com/Ayaan49">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayaan49&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayaan49&theme=tokyonight" />
+ 
+
+</a>
+<br/>
+
+
+## Recent articles on Hashnode
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+ 
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+ 
+
+# <h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaan49/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ayaan49/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/twtayaan)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaanbordoloi25@gmail.com)
+  
+</div>
+
+
+
+
+```Python
+ Thank You for taking the time to view my GitHub Profile 😄
+ ```
