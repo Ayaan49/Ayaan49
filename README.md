@@ -53,10 +53,10 @@
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/GrowInCommunity/support/issues/49) in [GrowInCommunity/support](https://github.com/GrowInCommunity/support)
-2. 🗣 Commented on [#136](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/136) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
-3. 💪 Opened PR [#5955](https://github.com/EddieHubCommunity/LinkFree/pull/5955) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#5202](https://github.com/mindsdb/mindsdb/issues/5202) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. ❗️ Opened issue [#134](https://github.com/UniKonf/vibey/issues/134) in [UniKonf/vibey](https://github.com/UniKonf/vibey)
+2. ❗️ Opened issue [#49](https://github.com/GrowInCommunity/support/issues/49) in [GrowInCommunity/support](https://github.com/GrowInCommunity/support)
+3. 🗣 Commented on [#136](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/136) in [hasnainmakada-99/Open-Source-With-Hasnain](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+4. 💪 Opened PR [#5955](https://github.com/EddieHubCommunity/LinkFree/pull/5955) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 5. 🗣 Commented on [#5202](https://github.com/mindsdb/mindsdb/issues/5202) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
