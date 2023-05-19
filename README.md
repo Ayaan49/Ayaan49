@@ -44,11 +44,11 @@
 ## Recent articles on Hashnode
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering DevOps: Editing Files with VIM in Linux and Understanding the Linux File Types](https://ayaan49.hashnode.dev/mastering-devops-editing-files-with-vim-in-linux-and-understanding-the-linux-file-types)
 - [Basic Linux for DevOps](https://ayaan49.hashnode.dev/basic-linux-for-devops)
 - [Binary representations  of IP addresses](https://ayaan49.hashnode.dev/binary-representations-of-ip-addresses)
 - [We are out of IP addresses but NAT saved us!](https://ayaan49.hashnode.dev/we-are-out-of-ip-addresses-but-nat-saved-us)
 - [IP Address-Building Block of the Internet](https://ayaan49.hashnode.dev/ip-address-building-block-of-the-internet)
-- [Install Ubuntu on VirtualBox](https://ayaan49.hashnode.dev/install-ubuntu-on-virtualbox)
 <!-- BLOG-POST-LIST:END -->
  
 # Recent Activity :zap:
