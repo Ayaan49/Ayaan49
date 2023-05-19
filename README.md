@@ -53,11 +53,11 @@
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/JasonDsouza212/free-hit/issues/236) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
+1. 🗣 Commented on [#134](https://github.com/UniKonf/vibey/issues/134) in [UniKonf/vibey](https://github.com/UniKonf/vibey)
 2. 🗣 Commented on [#236](https://github.com/JasonDsouza212/free-hit/issues/236) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
-3. 🗣 Commented on [#622](https://github.com/keptn/lifecycle-toolkit/issues/622) in [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit)
-4. ❗️ Opened issue [#236](https://github.com/JasonDsouza212/free-hit/issues/236) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
-5. ❗️ Opened issue [#134](https://github.com/UniKonf/vibey/issues/134) in [UniKonf/vibey](https://github.com/UniKonf/vibey)
+3. 🗣 Commented on [#236](https://github.com/JasonDsouza212/free-hit/issues/236) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
+4. 🗣 Commented on [#622](https://github.com/keptn/lifecycle-toolkit/issues/622) in [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit)
+5. ❗️ Opened issue [#236](https://github.com/JasonDsouza212/free-hit/issues/236) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
 <!--END_SECTION:activity-->
 
  
