@@ -53,11 +53,11 @@
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#140](https://github.com/UniKonf/vibey/pull/140) in [UniKonf/vibey](https://github.com/UniKonf/vibey)
-2. 🗣 Commented on [#134](https://github.com/UniKonf/vibey/issues/134) in [UniKonf/vibey](https://github.com/UniKonf/vibey)
-3. 🗣 Commented on [#236](https://github.com/JasonDsouza212/free-hit/issues/236) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
+1. ❗️ Closed issue [#236](https://github.com/JasonDsouza212/free-hit/issues/236) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
+2. 💪 Opened PR [#140](https://github.com/UniKonf/vibey/pull/140) in [UniKonf/vibey](https://github.com/UniKonf/vibey)
+3. 🗣 Commented on [#134](https://github.com/UniKonf/vibey/issues/134) in [UniKonf/vibey](https://github.com/UniKonf/vibey)
 4. 🗣 Commented on [#236](https://github.com/JasonDsouza212/free-hit/issues/236) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
-5. 🗣 Commented on [#622](https://github.com/keptn/lifecycle-toolkit/issues/622) in [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit)
+5. 🗣 Commented on [#236](https://github.com/JasonDsouza212/free-hit/issues/236) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
 <!--END_SECTION:activity-->
 
  
