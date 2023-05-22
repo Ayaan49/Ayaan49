@@ -53,11 +53,11 @@
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#263](https://github.com/JasonDsouza212/free-hit/issues/263) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
-2. ❗️ Closed issue [#3125](https://github.com/questdb/questdb/issues/3125) in [questdb/questdb](https://github.com/questdb/questdb)
-3. ❗️ Closed issue [#236](https://github.com/JasonDsouza212/free-hit/issues/236) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
-4. 💪 Opened PR [#140](https://github.com/UniKonf/vibey/pull/140) in [UniKonf/vibey](https://github.com/UniKonf/vibey)
-5. 🗣 Commented on [#134](https://github.com/UniKonf/vibey/issues/134) in [UniKonf/vibey](https://github.com/UniKonf/vibey)
+1. 🗣 Commented on [#263](https://github.com/JasonDsouza212/free-hit/issues/263) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
+2. ❗️ Opened issue [#263](https://github.com/JasonDsouza212/free-hit/issues/263) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
+3. ❗️ Closed issue [#3125](https://github.com/questdb/questdb/issues/3125) in [questdb/questdb](https://github.com/questdb/questdb)
+4. ❗️ Closed issue [#236](https://github.com/JasonDsouza212/free-hit/issues/236) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
+5. 💪 Opened PR [#140](https://github.com/UniKonf/vibey/pull/140) in [UniKonf/vibey](https://github.com/UniKonf/vibey)
 <!--END_SECTION:activity-->
 
  
