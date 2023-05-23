@@ -8,29 +8,12 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Vagrant" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
-          
-<img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-
-<img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+![My Skills](https://skillicons.dev/icons?i=html,css,java,vscode,linux,git,github,idea,bash,aws,wordpress,vim,md)
                      
 <br />
 
-#
 
-
-[![Ayaan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayaan49&theme=dracula)](https://github.com/Ayaan49/github-readme-activity-graph)
+[![Ayaan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayaan49&theme=dracula&bg_color=000000&color=70A1FF&line=70A1FF&point=FFFFFF)](https://github.com/Ayaan49/github-readme-activity-graph)
 
 <a href="https://github.com/Ayaan49">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayaan49&show_icons=true&theme=tokyonight" />
@@ -41,7 +24,7 @@
 <br/>
 
 
-## Recent articles on Hashnode
+# Recent articles on Hashnode
 
 <!-- BLOG-POST-LIST:START -->
 - [Mastering DevOps: Editing Files with VIM in Linux and Understanding the Linux File Types](https://ayaan49.hashnode.dev/mastering-devops-editing-files-with-vim-in-linux-and-understanding-the-linux-file-types)
