@@ -37,10 +37,10 @@
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#266](https://github.com/JasonDsouza212/free-hit/issues/266) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
-2. 💪 Opened PR [#266](https://github.com/JasonDsouza212/free-hit/pull/266) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
-3. 🗣 Commented on [#263](https://github.com/JasonDsouza212/free-hit/issues/263) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
+2. 🗣 Commented on [#266](https://github.com/JasonDsouza212/free-hit/issues/266) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
+3. 💪 Opened PR [#266](https://github.com/JasonDsouza212/free-hit/pull/266) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
 4. 🗣 Commented on [#263](https://github.com/JasonDsouza212/free-hit/issues/263) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
-5. ❗️ Opened issue [#263](https://github.com/JasonDsouza212/free-hit/issues/263) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
+5. 🗣 Commented on [#263](https://github.com/JasonDsouza212/free-hit/issues/263) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
 <!--END_SECTION:activity-->
 
  
