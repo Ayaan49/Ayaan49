@@ -12,19 +12,13 @@
                      
 <br />
 
-
-[![Ayaan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayaan49&theme=dracula&bg_color=000000&color=70A1FF&line=70A1FF&point=FFFFFF)](https://github.com/Ayaan49/github-readme-activity-graph)
-
 <a href="https://github.com/Ayaan49">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayaan49&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayaan49&theme=tokyonight" />
- 
-
 </a>
 <br/>
 
-
-# Recent articles on Hashnode
+# Recent articles on Hashnode 🚀
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
@@ -49,8 +43,6 @@ Linux is the foundation on which DevOps stands. We need to be at our absolute be
 4. 🗣 Commented on [#263](https://github.com/JasonDsouza212/free-hit/issues/263) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
 5. 🗣 Commented on [#263](https://github.com/JasonDsouza212/free-hit/issues/263) in [JasonDsouza212/free-hit](https://github.com/JasonDsouza212/free-hit)
 <!--END_SECTION:activity-->
-
- 
 
 # <h3 align="center">Connect with me:</h3>
 <div align="center">
