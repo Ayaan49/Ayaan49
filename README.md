@@ -22,9 +22,9 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-
+<a href="https://ayaan49.hashnode.dev//lamp-stack-installation-on-amazon-linux-2023" title="LAMP Stack Installation on Amazon Linux 2023"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689518011417/5b53eabf-367d-44f7-b242-79e56cd2adf3.png" alt="LAMP Stack Installation on Amazon Linux 2023" width="250px" align="left" /></a>
 <a href="https://ayaan49.hashnode.dev//lamp-stack-installation-on-amazon-linux-2023" title="LAMP Stack Installation on Amazon Linux 2023"><strong>LAMP Stack Installation on Amazon Linux 2023</strong></a>
-<div><strong>16 July 2023</strong></div>
+<div><strong>16 July 2023</strong> | <strong>Updated: 16 July 2023</strong></div>
 <br/> Introduction
 "LAMP" stack is a group of four different open-source software technologies used to build websites and web applications. "LAMP" stands for Linux OS; Apache web server; MySQL database server; and PHP programming language.
 In this blog, we... </p> <br/> <br/>
