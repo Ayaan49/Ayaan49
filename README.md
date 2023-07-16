@@ -22,17 +22,18 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+
+<a href="https://ayaan49.hashnode.dev//lamp-stack-installation-on-amazon-linux-2023" title="LAMP Stack Installation on Amazon Linux 2023"><strong>LAMP Stack Installation on Amazon Linux 2023</strong></a>
+<div><strong>16 July 2023</strong></div>
+<br/> Introduction
+"LAMP" stack is a group of four different open-source software technologies used to build websites and web applications. "LAMP" stands for Linux OS; Apache web server; MySQL database server; and PHP programming language.
+In this blog, we... </p> <br/> <br/>
+<p align="left">
 <a href="https://ayaan49.hashnode.dev//mastering-devops-editing-files-with-vim-in-linux-and-understanding-the-linux-file-types" title="Mastering DevOps: Editing Files with VIM in Linux and Understanding the Linux File Types"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684523320744/27d3e916-4338-4849-b178-4434b998d84e.png" alt="Mastering DevOps: Editing Files with VIM in Linux and Understanding the Linux File Types" width="250px" align="left" /></a>
 <a href="https://ayaan49.hashnode.dev//mastering-devops-editing-files-with-vim-in-linux-and-understanding-the-linux-file-types" title="Mastering DevOps: Editing Files with VIM in Linux and Understanding the Linux File Types"><strong>Mastering DevOps: Editing Files with VIM in Linux and Understanding the Linux File Types</strong></a>
 <div><strong>19 May 2023</strong> | <strong>Updated: 19 May 2023</strong></div>
 <br/> Introduction
 If you're new to DevOps, understanding how to edit files in the Linux terminal is a crucial skill to have. In this blog post, we'll focus on using the popular Vim text editor, which has a wide range of features and capabilities. We'll co... </p> <br/> <br/>
-<p align="left">
-<a href="https://ayaan49.hashnode.dev//basic-linux-for-devops" title="Basic Linux for DevOps"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684508998538/a253c026-aa29-4732-b83f-66be13088e1a.jpeg" alt="Basic Linux for DevOps" width="250px" align="left" /></a>
-<a href="https://ayaan49.hashnode.dev//basic-linux-for-devops" title="Basic Linux for DevOps"><strong>Basic Linux for DevOps</strong></a>
-<div><strong>7 May 2023</strong> | <strong>Updated: 19 May 2023</strong></div>
-<br/> Introduction
-Linux is the foundation on which DevOps stands. We need to be at our absolute best while learning Linux since a lot of Linux commands are used in various DevOps tools. In this article and the coming articles, we are going to understand t... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
  
 # Recent Activity :zap:
