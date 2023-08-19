@@ -22,18 +22,18 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ayaan49.hashnode.dev//wordpress-deployment-with-amazon-rds" title="WordPress deployment with Amazon RDS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692454587158/f1130e65-3228-4f3e-902d-9bbf6b91b4da.png" alt="WordPress deployment with Amazon RDS" width="250px" align="left" /></a>
+<a href="https://ayaan49.hashnode.dev//wordpress-deployment-with-amazon-rds" title="WordPress deployment with Amazon RDS"><strong>WordPress deployment with Amazon RDS</strong></a>
+<div><strong>19 Aug 2023</strong></div>
+<br/> Introduction
+WordPress is a flexible content management system for building blogs, e-commerce sites, discussion boards, and more. For whatever kind of website you’re making, you will have content to store. This content needs to be permanently stored ... </p> <br/> <br/>
+<p align="left">
 <a href="https://ayaan49.hashnode.dev//lamp-stack-installation-on-amazon-linux-2023" title="LAMP Stack Installation on Amazon Linux 2023"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689518011417/5b53eabf-367d-44f7-b242-79e56cd2adf3.png" alt="LAMP Stack Installation on Amazon Linux 2023" width="250px" align="left" /></a>
 <a href="https://ayaan49.hashnode.dev//lamp-stack-installation-on-amazon-linux-2023" title="LAMP Stack Installation on Amazon Linux 2023"><strong>LAMP Stack Installation on Amazon Linux 2023</strong></a>
 <div><strong>16 July 2023</strong> | <strong>Updated: 16 July 2023</strong></div>
 <br/> Introduction
 "LAMP" stack is a group of four different open-source software technologies used to build websites and web applications. "LAMP" stands for Linux OS; Apache web server; MySQL database server; and PHP programming language.
 In this blog, we... </p> <br/> <br/>
-<p align="left">
-<a href="https://ayaan49.hashnode.dev//mastering-devops-editing-files-with-vim-in-linux-and-understanding-the-linux-file-types" title="Mastering DevOps: Editing Files with VIM in Linux and Understanding the Linux File Types"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684523320744/27d3e916-4338-4849-b178-4434b998d84e.png" alt="Mastering DevOps: Editing Files with VIM in Linux and Understanding the Linux File Types" width="250px" align="left" /></a>
-<a href="https://ayaan49.hashnode.dev//mastering-devops-editing-files-with-vim-in-linux-and-understanding-the-linux-file-types" title="Mastering DevOps: Editing Files with VIM in Linux and Understanding the Linux File Types"><strong>Mastering DevOps: Editing Files with VIM in Linux and Understanding the Linux File Types</strong></a>
-<div><strong>19 May 2023</strong> | <strong>Updated: 19 May 2023</strong></div>
-<br/> Introduction
-If you're new to DevOps, understanding how to edit files in the Linux terminal is a crucial skill to have. In this blog post, we'll focus on using the popular Vim text editor, which has a wide range of features and capabilities. We'll co... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
  
 # Recent Activity :zap:
