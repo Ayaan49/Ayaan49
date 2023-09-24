@@ -9,9 +9,7 @@
 ### 🧰 Languages and Tools
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,java,vscode,linux,git,github,idea,bash,aws,wordpress,vim,md,docker)
-
-[![Ayaan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayaan49&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)(https://github.com/Ayaan49/github-readme-activity-graph)
-                     
+                   
 <br />
 
 <a href="https://github.com/Ayaan49">
