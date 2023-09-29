@@ -35,6 +35,7 @@ WordPress is a flexible content management system for building blogs, e-commerce
 "LAMP" stack is a group of four different open-source software technologies used to build websites and web applications. "LAMP" stands for Linux OS; Apache web server; MySQL database server; and PHP programming language.
 In this blog, we... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
