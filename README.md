@@ -39,10 +39,10 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2136](https://github.com/cncf/glossary/issues/2136#issuecomment-1741721447) in [cncf/glossary](https://github.com/cncf/glossary)
-2. 💪 Opened PR [#19](https://github.com/ankitmrmishra/ThisnewAnkit/pull/19) in [ankitmrmishra/ThisnewAnkit](https://github.com/ankitmrmishra/ThisnewAnkit)
-3. 💪 Opened PR [#1](https://github.com/guys-in-the-cloud/AWS/pull/1) in [guys-in-the-cloud/AWS](https://github.com/guys-in-the-cloud/AWS)
-4. ❗ Opened issue [#780](https://github.com/rupali-codes/LinksHub/issues/780) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+1. 🗣 Commented on [#116](https://github.com/novuhq/docs/issues/116#issuecomment-1742011316) in [novuhq/docs](https://github.com/novuhq/docs)
+2. 🗣 Commented on [#2136](https://github.com/cncf/glossary/issues/2136#issuecomment-1741721447) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 💪 Opened PR [#19](https://github.com/ankitmrmishra/ThisnewAnkit/pull/19) in [ankitmrmishra/ThisnewAnkit](https://github.com/ankitmrmishra/ThisnewAnkit)
+4. 💪 Opened PR [#1](https://github.com/guys-in-the-cloud/AWS/pull/1) in [guys-in-the-cloud/AWS](https://github.com/guys-in-the-cloud/AWS)
 5. ❗ Opened issue [#7534](https://github.com/EddieHubCommunity/support/issues/7534) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
