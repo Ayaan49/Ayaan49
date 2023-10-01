@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1071](https://github.com/akshitagupta15june/PetMe/issues/1071#issuecomment-1742036106) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-2. ❗ Opened issue [#1071](https://github.com/akshitagupta15june/PetMe/issues/1071) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-3. 🗣 Commented on [#116](https://github.com/novuhq/docs/issues/116#issuecomment-1742011316) in [novuhq/docs](https://github.com/novuhq/docs)
-4. 🗣 Commented on [#2136](https://github.com/cncf/glossary/issues/2136#issuecomment-1741721447) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 💪 Opened PR [#19](https://github.com/ankitmrmishra/ThisnewAnkit/pull/19) in [ankitmrmishra/ThisnewAnkit](https://github.com/ankitmrmishra/ThisnewAnkit)
+1. ❗ Opened issue [#1740](https://github.com/rupali-codes/LinksHub/issues/1740) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+2. 🗣 Commented on [#1071](https://github.com/akshitagupta15june/PetMe/issues/1071#issuecomment-1742036106) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+3. ❗ Opened issue [#1071](https://github.com/akshitagupta15june/PetMe/issues/1071) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+4. 🗣 Commented on [#116](https://github.com/novuhq/docs/issues/116#issuecomment-1742011316) in [novuhq/docs](https://github.com/novuhq/docs)
+5. 🗣 Commented on [#2136](https://github.com/cncf/glossary/issues/2136#issuecomment-1741721447) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
