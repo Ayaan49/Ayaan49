@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1743](https://github.com/rupali-codes/LinksHub/pull/1743#issuecomment-1742448175) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-2. 💪 Opened PR [#1743](https://github.com/rupali-codes/LinksHub/pull/1743) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-3. 🗣 Commented on [#1740](https://github.com/rupali-codes/LinksHub/issues/1740#issuecomment-1742399391) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-4. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1742373804) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-5. ❗ Opened issue [#1740](https://github.com/rupali-codes/LinksHub/issues/1740) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+1. ❗ Opened issue [#722](https://github.com/yogeshpaliyal/KeyPass/issues/722) in [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass)
+2. 🗣 Commented on [#1743](https://github.com/rupali-codes/LinksHub/pull/1743#issuecomment-1742448175) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+3. 💪 Opened PR [#1743](https://github.com/rupali-codes/LinksHub/pull/1743) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+4. 🗣 Commented on [#1740](https://github.com/rupali-codes/LinksHub/issues/1740#issuecomment-1742399391) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+5. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1742373804) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
