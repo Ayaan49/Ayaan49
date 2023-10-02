@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1740](https://github.com/rupali-codes/LinksHub/issues/1740#issuecomment-1742399391) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-2. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1742373804) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-3. ❗ Opened issue [#1740](https://github.com/rupali-codes/LinksHub/issues/1740) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-4. 🗣 Commented on [#1071](https://github.com/akshitagupta15june/PetMe/issues/1071#issuecomment-1742036106) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-5. ❗ Opened issue [#1071](https://github.com/akshitagupta15june/PetMe/issues/1071) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+1. 💪 Opened PR [#1743](https://github.com/rupali-codes/LinksHub/pull/1743) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+2. 🗣 Commented on [#1740](https://github.com/rupali-codes/LinksHub/issues/1740#issuecomment-1742399391) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+3. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1742373804) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+4. ❗ Opened issue [#1740](https://github.com/rupali-codes/LinksHub/issues/1740) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+5. 🗣 Commented on [#1071](https://github.com/akshitagupta15june/PetMe/issues/1071#issuecomment-1742036106) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
