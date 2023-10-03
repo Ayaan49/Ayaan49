@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1743](https://github.com/rupali-codes/LinksHub/pull/1743#issuecomment-1743271002) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-2. 🗣 Commented on [#1743](https://github.com/rupali-codes/LinksHub/pull/1743#issuecomment-1743128197) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-3. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1742679677) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-4. ❗ Opened issue [#722](https://github.com/yogeshpaliyal/KeyPass/issues/722) in [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass)
-5. 🗣 Commented on [#1743](https://github.com/rupali-codes/LinksHub/pull/1743#issuecomment-1742448175) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+1. 🗣 Commented on [#116](https://github.com/novuhq/docs/issues/116#issuecomment-1744342482) in [novuhq/docs](https://github.com/novuhq/docs)
+2. 🗣 Commented on [#1743](https://github.com/rupali-codes/LinksHub/pull/1743#issuecomment-1743271002) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+3. 🗣 Commented on [#1743](https://github.com/rupali-codes/LinksHub/pull/1743#issuecomment-1743128197) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+4. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1742679677) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+5. ❗ Opened issue [#722](https://github.com/yogeshpaliyal/KeyPass/issues/722) in [yogeshpaliyal/KeyPass](https://github.com/yogeshpaliyal/KeyPass)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
