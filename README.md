@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1748137353) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🔒 Closed issue [#1071](https://github.com/akshitagupta15june/PetMe/issues/1071) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-3. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1745218622) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-4. 🗣 Commented on [#116](https://github.com/novuhq/docs/issues/116#issuecomment-1744342482) in [novuhq/docs](https://github.com/novuhq/docs)
-5. 🗣 Commented on [#1743](https://github.com/rupali-codes/LinksHub/pull/1743#issuecomment-1743271002) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+1. 💪 Opened PR [#42](https://github.com/utopia-php/messaging/pull/42) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
+2. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1748137353) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+3. 🔒 Closed issue [#1071](https://github.com/akshitagupta15june/PetMe/issues/1071) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+4. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1745218622) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+5. 🗣 Commented on [#116](https://github.com/novuhq/docs/issues/116#issuecomment-1744342482) in [novuhq/docs](https://github.com/novuhq/docs)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
