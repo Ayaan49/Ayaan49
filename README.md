@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#35](https://github.com/Arindam200/makaut_buddy/issues/35) in [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)
-2. ❌ Closed PR [#42](https://github.com/utopia-php/messaging/pull/42) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
-3. 💪 Opened PR [#42](https://github.com/utopia-php/messaging/pull/42) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
-4. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1748137353) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-5. 🔒 Closed issue [#1071](https://github.com/akshitagupta15june/PetMe/issues/1071) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+1. 🗣 Commented on [#116](https://github.com/novuhq/docs/issues/116#issuecomment-1751673093) in [novuhq/docs](https://github.com/novuhq/docs)
+2. ❗ Opened issue [#35](https://github.com/Arindam200/makaut_buddy/issues/35) in [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)
+3. ❌ Closed PR [#42](https://github.com/utopia-php/messaging/pull/42) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
+4. 💪 Opened PR [#42](https://github.com/utopia-php/messaging/pull/42) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
+5. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1748137353) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
