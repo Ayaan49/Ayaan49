@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/Arindam200/makaut_buddy/issues/35#issuecomment-1753411014) in [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)
-2. 🗣 Commented on [#35](https://github.com/Arindam200/makaut_buddy/issues/35#issuecomment-1753341200) in [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)
-3. 🗣 Commented on [#116](https://github.com/novuhq/docs/issues/116#issuecomment-1751673093) in [novuhq/docs](https://github.com/novuhq/docs)
-4. ❗ Opened issue [#35](https://github.com/Arindam200/makaut_buddy/issues/35) in [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)
-5. ❌ Closed PR [#42](https://github.com/utopia-php/messaging/pull/42) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
+1. 💪 Opened PR [#54](https://github.com/Arindam200/makaut_buddy/pull/54) in [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)
+2. 🗣 Commented on [#35](https://github.com/Arindam200/makaut_buddy/issues/35#issuecomment-1753411014) in [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)
+3. 🗣 Commented on [#35](https://github.com/Arindam200/makaut_buddy/issues/35#issuecomment-1753341200) in [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)
+4. 🗣 Commented on [#116](https://github.com/novuhq/docs/issues/116#issuecomment-1751673093) in [novuhq/docs](https://github.com/novuhq/docs)
+5. ❗ Opened issue [#35](https://github.com/Arindam200/makaut_buddy/issues/35) in [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
