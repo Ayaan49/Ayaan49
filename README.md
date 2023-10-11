@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/novuhq/docs/issues/116#issuecomment-1757893517) in [novuhq/docs](https://github.com/novuhq/docs)
-2. 💪 Opened PR [#210](https://github.com/novuhq/docs/pull/210) in [novuhq/docs](https://github.com/novuhq/docs)
-3. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1757600993) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-4. 💪 Opened PR [#51](https://github.com/utopia-php/messaging/pull/51) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
-5. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1757413799) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 🗣 Commented on [#210](https://github.com/novuhq/docs/pull/210#issuecomment-1758105717) in [novuhq/docs](https://github.com/novuhq/docs)
+2. 🗣 Commented on [#116](https://github.com/novuhq/docs/issues/116#issuecomment-1757893517) in [novuhq/docs](https://github.com/novuhq/docs)
+3. 💪 Opened PR [#210](https://github.com/novuhq/docs/pull/210) in [novuhq/docs](https://github.com/novuhq/docs)
+4. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1757600993) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+5. 💪 Opened PR [#51](https://github.com/utopia-php/messaging/pull/51) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
