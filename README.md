@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#272](https://github.com/novuhq/docs/pull/272) in [novuhq/docs](https://github.com/novuhq/docs)
-2. ❗ Opened issue [#271](https://github.com/novuhq/docs/issues/271) in [novuhq/docs](https://github.com/novuhq/docs)
-3. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1766947195) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-4. ❗ Opened issue [#67](https://github.com/FrancescoXX/contentbox/issues/67) in [FrancescoXX/contentbox](https://github.com/FrancescoXX/contentbox)
-5. 🗣 Commented on [#54](https://github.com/Arindam200/makaut_buddy/pull/54#issuecomment-1761271966) in [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)
+1. ❗ Opened issue [#675](https://github.com/avinash201199/Free-courses-with-Certificates/issues/675) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
+2. 💪 Opened PR [#272](https://github.com/novuhq/docs/pull/272) in [novuhq/docs](https://github.com/novuhq/docs)
+3. ❗ Opened issue [#271](https://github.com/novuhq/docs/issues/271) in [novuhq/docs](https://github.com/novuhq/docs)
+4. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1766947195) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+5. ❗ Opened issue [#67](https://github.com/FrancescoXX/contentbox/issues/67) in [FrancescoXX/contentbox](https://github.com/FrancescoXX/contentbox)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
