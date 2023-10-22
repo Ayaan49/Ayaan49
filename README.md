@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#283](https://github.com/novuhq/docs/issues/283#issuecomment-1774071494) in [novuhq/docs](https://github.com/novuhq/docs)
-2. ❗ Opened issue [#283](https://github.com/novuhq/docs/issues/283) in [novuhq/docs](https://github.com/novuhq/docs)
-3. ❗ Opened issue [#675](https://github.com/avinash201199/Free-courses-with-Certificates/issues/675) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
-4. 💪 Opened PR [#272](https://github.com/novuhq/docs/pull/272) in [novuhq/docs](https://github.com/novuhq/docs)
-5. ❗ Opened issue [#271](https://github.com/novuhq/docs/issues/271) in [novuhq/docs](https://github.com/novuhq/docs)
+1. 🔒 Closed issue [#283](https://github.com/novuhq/docs/issues/283) in [novuhq/docs](https://github.com/novuhq/docs)
+2. ❗ Opened issue [#5](https://github.com/alicalimli/ac-messenger/issues/5) in [alicalimli/ac-messenger](https://github.com/alicalimli/ac-messenger)
+3. 🗣 Commented on [#283](https://github.com/novuhq/docs/issues/283#issuecomment-1774071494) in [novuhq/docs](https://github.com/novuhq/docs)
+4. ❗ Opened issue [#283](https://github.com/novuhq/docs/issues/283) in [novuhq/docs](https://github.com/novuhq/docs)
+5. ❗ Opened issue [#675](https://github.com/avinash201199/Free-courses-with-Certificates/issues/675) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
