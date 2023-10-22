@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#283](https://github.com/novuhq/docs/issues/283) in [novuhq/docs](https://github.com/novuhq/docs)
-2. ❗ Opened issue [#675](https://github.com/avinash201199/Free-courses-with-Certificates/issues/675) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
-3. 💪 Opened PR [#272](https://github.com/novuhq/docs/pull/272) in [novuhq/docs](https://github.com/novuhq/docs)
-4. ❗ Opened issue [#271](https://github.com/novuhq/docs/issues/271) in [novuhq/docs](https://github.com/novuhq/docs)
-5. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1766947195) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 🗣 Commented on [#283](https://github.com/novuhq/docs/issues/283#issuecomment-1774071494) in [novuhq/docs](https://github.com/novuhq/docs)
+2. ❗ Opened issue [#283](https://github.com/novuhq/docs/issues/283) in [novuhq/docs](https://github.com/novuhq/docs)
+3. ❗ Opened issue [#675](https://github.com/avinash201199/Free-courses-with-Certificates/issues/675) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
+4. 💪 Opened PR [#272](https://github.com/novuhq/docs/pull/272) in [novuhq/docs](https://github.com/novuhq/docs)
+5. ❗ Opened issue [#271](https://github.com/novuhq/docs/issues/271) in [novuhq/docs](https://github.com/novuhq/docs)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
