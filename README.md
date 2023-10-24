@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#287](https://github.com/novuhq/docs/issues/287) in [novuhq/docs](https://github.com/novuhq/docs)
-2. 💪 Opened PR [#3251](https://github.com/EddieHubCommunity/open-source-practice/pull/3251) in [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice)
-3. 💪 Opened PR [#701](https://github.com/avinash201199/Free-courses-with-Certificates/pull/701) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
-4. 🔒 Closed issue [#283](https://github.com/novuhq/docs/issues/283) in [novuhq/docs](https://github.com/novuhq/docs)
-5. ❗ Opened issue [#5](https://github.com/alicalimli/ac-messenger/issues/5) in [alicalimli/ac-messenger](https://github.com/alicalimli/ac-messenger)
+1. 🗣 Commented on [#675](https://github.com/avinash201199/Free-courses-with-Certificates/issues/675#issuecomment-1776909682) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
+2. ❗ Opened issue [#287](https://github.com/novuhq/docs/issues/287) in [novuhq/docs](https://github.com/novuhq/docs)
+3. 💪 Opened PR [#3251](https://github.com/EddieHubCommunity/open-source-practice/pull/3251) in [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice)
+4. 💪 Opened PR [#701](https://github.com/avinash201199/Free-courses-with-Certificates/pull/701) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
+5. 🔒 Closed issue [#283](https://github.com/novuhq/docs/issues/283) in [novuhq/docs](https://github.com/novuhq/docs)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
