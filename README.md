@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#714](https://github.com/avinash201199/Free-courses-with-Certificates/pull/714) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
-2. 🔓 Reopened issue [#675](https://github.com/avinash201199/Free-courses-with-Certificates/issues/675) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
-3. 🔒 Closed issue [#675](https://github.com/avinash201199/Free-courses-with-Certificates/issues/675) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
-4. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1779167195) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-5. 🗣 Commented on [#287](https://github.com/novuhq/docs/issues/287#issuecomment-1779151342) in [novuhq/docs](https://github.com/novuhq/docs)
+1. 💪 Opened PR [#294](https://github.com/novuhq/docs/pull/294) in [novuhq/docs](https://github.com/novuhq/docs)
+2. 💪 Opened PR [#714](https://github.com/avinash201199/Free-courses-with-Certificates/pull/714) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
+3. 🔓 Reopened issue [#675](https://github.com/avinash201199/Free-courses-with-Certificates/issues/675) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
+4. 🔒 Closed issue [#675](https://github.com/avinash201199/Free-courses-with-Certificates/issues/675) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
+5. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1779167195) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
