@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1209](https://github.com/nikohoffren/fork-commit-merge/pull/1209) in [nikohoffren/fork-commit-merge](https://github.com/nikohoffren/fork-commit-merge)
-2. 🗣 Commented on [#1107](https://github.com/nikohoffren/fork-commit-merge/issues/1107#issuecomment-1777771305) in [nikohoffren/fork-commit-merge](https://github.com/nikohoffren/fork-commit-merge)
-3. 💪 Opened PR [#21388](https://github.com/zero-to-mastery/start-here-guidelines/pull/21388) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-4. 💪 Opened PR [#3060](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/3060) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
-5. ❗ Opened issue [#3058](https://github.com/zero-to-mastery/ZtM-Job-Board/issues/3058) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
+1. 🗣 Commented on [#6404](https://github.com/appwrite/appwrite/issues/6404#issuecomment-1779167195) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🗣 Commented on [#287](https://github.com/novuhq/docs/issues/287#issuecomment-1779151342) in [novuhq/docs](https://github.com/novuhq/docs)
+3. 💪 Opened PR [#1209](https://github.com/nikohoffren/fork-commit-merge/pull/1209) in [nikohoffren/fork-commit-merge](https://github.com/nikohoffren/fork-commit-merge)
+4. 🗣 Commented on [#1107](https://github.com/nikohoffren/fork-commit-merge/issues/1107#issuecomment-1777771305) in [nikohoffren/fork-commit-merge](https://github.com/nikohoffren/fork-commit-merge)
+5. 💪 Opened PR [#21388](https://github.com/zero-to-mastery/start-here-guidelines/pull/21388) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
