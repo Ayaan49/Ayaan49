@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Currently Learning:- ``DevOps and DSA``.
+- 🤔 &nbsp; Currently Learning:- ``DevOps``.
 - 🎓 &nbsp; I am an engineering undergraduate interested in DevOps , OpenSource and Cloud technologies.
 - ✍️ &nbsp; Read my Blogs at <a href="https://hashnode.com/@Ayaan49">Ayaan's blog</a>
 
