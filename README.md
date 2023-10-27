@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#714](https://github.com/avinash201199/Free-courses-with-Certificates/pull/714#issuecomment-1780984921) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
-2. ❌ Closed PR [#3060](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/3060) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
-3. ❌ Closed PR [#714](https://github.com/mazipan/hello-open-source/pull/714) in [mazipan/hello-open-source](https://github.com/mazipan/hello-open-source)
-4. ❌ Closed PR [#3251](https://github.com/EddieHubCommunity/open-source-practice/pull/3251) in [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice)
-5. 💪 Opened PR [#294](https://github.com/novuhq/docs/pull/294) in [novuhq/docs](https://github.com/novuhq/docs)
+1. 💪 Opened PR [#307](https://github.com/livecycle/preevy/pull/307) in [livecycle/preevy](https://github.com/livecycle/preevy)
+2. 🗣 Commented on [#714](https://github.com/avinash201199/Free-courses-with-Certificates/pull/714#issuecomment-1780984921) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
+3. ❌ Closed PR [#3060](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/3060) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
+4. ❌ Closed PR [#714](https://github.com/mazipan/hello-open-source/pull/714) in [mazipan/hello-open-source](https://github.com/mazipan/hello-open-source)
+5. ❌ Closed PR [#3251](https://github.com/EddieHubCommunity/open-source-practice/pull/3251) in [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
