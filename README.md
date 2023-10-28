@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#294](https://github.com/novuhq/docs/pull/294#issuecomment-1783802716) in [novuhq/docs](https://github.com/novuhq/docs)
-2. 🗣 Commented on [#51](https://github.com/utopia-php/messaging/pull/51#issuecomment-1783800834) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
-3. 💪 Opened PR [#307](https://github.com/livecycle/preevy/pull/307) in [livecycle/preevy](https://github.com/livecycle/preevy)
-4. 🗣 Commented on [#714](https://github.com/avinash201199/Free-courses-with-Certificates/pull/714#issuecomment-1780984921) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
-5. ❌ Closed PR [#3060](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/3060) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
+1. 💪 Opened PR [#1551](https://github.com/wasp-lang/wasp/pull/1551) in [wasp-lang/wasp](https://github.com/wasp-lang/wasp)
+2. 🗣 Commented on [#294](https://github.com/novuhq/docs/pull/294#issuecomment-1783802716) in [novuhq/docs](https://github.com/novuhq/docs)
+3. 🗣 Commented on [#51](https://github.com/utopia-php/messaging/pull/51#issuecomment-1783800834) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
+4. 💪 Opened PR [#307](https://github.com/livecycle/preevy/pull/307) in [livecycle/preevy](https://github.com/livecycle/preevy)
+5. 🗣 Commented on [#714](https://github.com/avinash201199/Free-courses-with-Certificates/pull/714#issuecomment-1780984921) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
