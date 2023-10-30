@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#675](https://github.com/avinash201199/Free-courses-with-Certificates/issues/675) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
-2. 🔒 Closed issue [#3058](https://github.com/zero-to-mastery/ZtM-Job-Board/issues/3058) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
-3. 💪 Opened PR [#327](https://github.com/livecycle/preevy/pull/327) in [livecycle/preevy](https://github.com/livecycle/preevy)
-4. 💪 Opened PR [#578](https://github.com/intel/intel-extension-for-transformers/pull/578) in [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers)
-5. 💪 Opened PR [#1551](https://github.com/wasp-lang/wasp/pull/1551) in [wasp-lang/wasp](https://github.com/wasp-lang/wasp)
+1. 🗣 Commented on [#294](https://github.com/novuhq/docs/pull/294#issuecomment-1784704372) in [novuhq/docs](https://github.com/novuhq/docs)
+2. 🔒 Closed issue [#675](https://github.com/avinash201199/Free-courses-with-Certificates/issues/675) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
+3. 🔒 Closed issue [#3058](https://github.com/zero-to-mastery/ZtM-Job-Board/issues/3058) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
+4. 💪 Opened PR [#327](https://github.com/livecycle/preevy/pull/327) in [livecycle/preevy](https://github.com/livecycle/preevy)
+5. 💪 Opened PR [#578](https://github.com/intel/intel-extension-for-transformers/pull/578) in [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
