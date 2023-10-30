@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7291](https://github.com/stylelint/stylelint/pull/7291) in [stylelint/stylelint](https://github.com/stylelint/stylelint)
-2. 🔒 Closed issue [#287](https://github.com/novuhq/docs/issues/287) in [novuhq/docs](https://github.com/novuhq/docs)
-3. 🗣 Commented on [#578](https://github.com/intel/intel-extension-for-transformers/pull/578#issuecomment-1784745921) in [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers)
-4. 🗣 Commented on [#294](https://github.com/novuhq/docs/pull/294#issuecomment-1784704372) in [novuhq/docs](https://github.com/novuhq/docs)
-5. 🔒 Closed issue [#675](https://github.com/avinash201199/Free-courses-with-Certificates/issues/675) in [avinash201199/Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates)
+1. 💪 Opened PR [#16165](https://github.com/Homebrew/brew/pull/16165) in [Homebrew/brew](https://github.com/Homebrew/brew)
+2. 💪 Opened PR [#7291](https://github.com/stylelint/stylelint/pull/7291) in [stylelint/stylelint](https://github.com/stylelint/stylelint)
+3. 🔒 Closed issue [#287](https://github.com/novuhq/docs/issues/287) in [novuhq/docs](https://github.com/novuhq/docs)
+4. 🗣 Commented on [#578](https://github.com/intel/intel-extension-for-transformers/pull/578#issuecomment-1784745921) in [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers)
+5. 🗣 Commented on [#294](https://github.com/novuhq/docs/pull/294#issuecomment-1784704372) in [novuhq/docs](https://github.com/novuhq/docs)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
