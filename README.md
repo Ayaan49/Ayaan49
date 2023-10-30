@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8076](https://github.com/ToolJet/ToolJet/pull/8076) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-2. 💪 Opened PR [#16165](https://github.com/Homebrew/brew/pull/16165) in [Homebrew/brew](https://github.com/Homebrew/brew)
-3. 💪 Opened PR [#7291](https://github.com/stylelint/stylelint/pull/7291) in [stylelint/stylelint](https://github.com/stylelint/stylelint)
-4. 🔒 Closed issue [#287](https://github.com/novuhq/docs/issues/287) in [novuhq/docs](https://github.com/novuhq/docs)
-5. 🗣 Commented on [#578](https://github.com/intel/intel-extension-for-transformers/pull/578#issuecomment-1784745921) in [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers)
+1. ❗ Opened issue [#318](https://github.com/novuhq/docs/issues/318) in [novuhq/docs](https://github.com/novuhq/docs)
+2. 💪 Opened PR [#8076](https://github.com/ToolJet/ToolJet/pull/8076) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+3. 💪 Opened PR [#16165](https://github.com/Homebrew/brew/pull/16165) in [Homebrew/brew](https://github.com/Homebrew/brew)
+4. 💪 Opened PR [#7291](https://github.com/stylelint/stylelint/pull/7291) in [stylelint/stylelint](https://github.com/stylelint/stylelint)
+5. 🔒 Closed issue [#287](https://github.com/novuhq/docs/issues/287) in [novuhq/docs](https://github.com/novuhq/docs)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
