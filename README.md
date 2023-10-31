@@ -36,6 +36,10 @@ WordPress is a flexible content management system for building blogs, e-commerce
 In this blog, we... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# My Holopin Badges 
+
+[![An image of @_ayaan49's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/_ayaan49)](https://holopin.io/@_ayaan49)
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
