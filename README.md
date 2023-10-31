@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#320](https://github.com/novuhq/docs/pull/320) in [novuhq/docs](https://github.com/novuhq/docs)
-2. 🗣 Commented on [#318](https://github.com/novuhq/docs/issues/318#issuecomment-1786890613) in [novuhq/docs](https://github.com/novuhq/docs)
-3. 🗣 Commented on [#51](https://github.com/utopia-php/messaging/pull/51#issuecomment-1786877425) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
-4. ❗ Opened issue [#318](https://github.com/novuhq/docs/issues/318) in [novuhq/docs](https://github.com/novuhq/docs)
-5. 💪 Opened PR [#8076](https://github.com/ToolJet/ToolJet/pull/8076) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+1. 🗣 Commented on [#321](https://github.com/novuhq/docs/issues/321#issuecomment-1786953144) in [novuhq/docs](https://github.com/novuhq/docs)
+2. ❗ Opened issue [#321](https://github.com/novuhq/docs/issues/321) in [novuhq/docs](https://github.com/novuhq/docs)
+3. 💪 Opened PR [#320](https://github.com/novuhq/docs/pull/320) in [novuhq/docs](https://github.com/novuhq/docs)
+4. 🗣 Commented on [#318](https://github.com/novuhq/docs/issues/318#issuecomment-1786890613) in [novuhq/docs](https://github.com/novuhq/docs)
+5. 🗣 Commented on [#51](https://github.com/utopia-php/messaging/pull/51#issuecomment-1786877425) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
