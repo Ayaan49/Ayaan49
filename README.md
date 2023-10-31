@@ -39,11 +39,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#318](https://github.com/novuhq/docs/issues/318) in [novuhq/docs](https://github.com/novuhq/docs)
-2. 💪 Opened PR [#8076](https://github.com/ToolJet/ToolJet/pull/8076) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-3. 💪 Opened PR [#16165](https://github.com/Homebrew/brew/pull/16165) in [Homebrew/brew](https://github.com/Homebrew/brew)
-4. 💪 Opened PR [#7291](https://github.com/stylelint/stylelint/pull/7291) in [stylelint/stylelint](https://github.com/stylelint/stylelint)
-5. 🔒 Closed issue [#287](https://github.com/novuhq/docs/issues/287) in [novuhq/docs](https://github.com/novuhq/docs)
+1. 🗣 Commented on [#318](https://github.com/novuhq/docs/issues/318#issuecomment-1786890613) in [novuhq/docs](https://github.com/novuhq/docs)
+2. 🗣 Commented on [#51](https://github.com/utopia-php/messaging/pull/51#issuecomment-1786877425) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
+3. ❗ Opened issue [#318](https://github.com/novuhq/docs/issues/318) in [novuhq/docs](https://github.com/novuhq/docs)
+4. 💪 Opened PR [#8076](https://github.com/ToolJet/ToolJet/pull/8076) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+5. 💪 Opened PR [#16165](https://github.com/Homebrew/brew/pull/16165) in [Homebrew/brew](https://github.com/Homebrew/brew)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
