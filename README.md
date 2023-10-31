@@ -43,11 +43,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2907](https://github.com/Flagsmith/flagsmith/pull/2907) in [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith)
-2. 🔒 Closed issue [#321](https://github.com/novuhq/docs/issues/321) in [novuhq/docs](https://github.com/novuhq/docs)
-3. 🗣 Commented on [#320](https://github.com/novuhq/docs/pull/320#issuecomment-1787096512) in [novuhq/docs](https://github.com/novuhq/docs)
-4. 🗣 Commented on [#322](https://github.com/novuhq/docs/pull/322#issuecomment-1787095740) in [novuhq/docs](https://github.com/novuhq/docs)
-5. 💪 Opened PR [#322](https://github.com/novuhq/docs/pull/322) in [novuhq/docs](https://github.com/novuhq/docs)
+1. 💪 Opened PR [#3830](https://github.com/Codecademy/docs/pull/3830) in [Codecademy/docs](https://github.com/Codecademy/docs)
+2. 💪 Opened PR [#2907](https://github.com/Flagsmith/flagsmith/pull/2907) in [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith)
+3. 🔒 Closed issue [#321](https://github.com/novuhq/docs/issues/321) in [novuhq/docs](https://github.com/novuhq/docs)
+4. 🗣 Commented on [#320](https://github.com/novuhq/docs/pull/320#issuecomment-1787096512) in [novuhq/docs](https://github.com/novuhq/docs)
+5. 🗣 Commented on [#322](https://github.com/novuhq/docs/pull/322#issuecomment-1787095740) in [novuhq/docs](https://github.com/novuhq/docs)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
