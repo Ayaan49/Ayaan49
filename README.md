@@ -43,11 +43,11 @@ In this blog, we... </p> <br/> <br/>
  
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/utopia-php/messaging/pull/51#issuecomment-1791642156) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
-2. 🗣 Commented on [#15](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/15#issuecomment-1787887132) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
-3. 🎉 Merged PR [#15](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/15) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
-4. 💪 Opened PR [#9013](https://github.com/nextauthjs/next-auth/pull/9013) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 💪 Opened PR [#3830](https://github.com/Codecademy/docs/pull/3830) in [Codecademy/docs](https://github.com/Codecademy/docs)
+1. 🗣 Commented on [#51](https://github.com/utopia-php/messaging/pull/51#issuecomment-1810932976) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
+2. 🗣 Commented on [#51](https://github.com/utopia-php/messaging/pull/51#issuecomment-1791642156) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
+3. 🗣 Commented on [#15](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/15#issuecomment-1787887132) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
+4. 🎉 Merged PR [#15](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/15) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
+5. 💪 Opened PR [#9013](https://github.com/nextauthjs/next-auth/pull/9013) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
 
 # <h3 align="center">Connect with me:</h3>
