@@ -1,24 +1,17 @@
-name: "Blog Updater"
+name: Update Blog Posts
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
-  update_blogs:
-    name: "Update Blogs"
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: "Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          USERNAME: 'ayaan49'  # Hashnode Username
-          BLOG_URL: 'https://ayaan49.hashnode.dev/' # Blog URL
-          COUNT: 2 # MAX Visisble
-          STYLE: "blog-left"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # comma-separated list of RSS feed urls
+          feed_list: "https://ayaan49.hashnode.dev/rss.xml"
