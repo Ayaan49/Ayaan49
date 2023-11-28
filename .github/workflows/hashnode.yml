@@ -1,4 +1,4 @@
-name: "📚 Blog Updater"
+name: "Blog Updater"
 
 on:
   workflow_dispatch:
@@ -10,10 +10,10 @@ jobs:
     name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
+      - name: "Fetching Repository Contents"
         uses: actions/checkout@main
 
-      - name: "📚  Hashnode Updater"
+      - name: "Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'ayaan49'  # Hashnode Username
