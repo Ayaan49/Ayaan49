@@ -27,13 +27,6 @@
 <div><strong>19 Aug 2023</strong></div>
 <br/> Introduction
 WordPress is a flexible content management system for building blogs, e-commerce sites, discussion boards, and more. For whatever kind of website you’re making, you will have content to store. This content needs to be permanently stored ... </p> <br/> <br/>
-<p align="left">
-<a href="https://ayaan49.hashnode.dev//lamp-stack-installation-on-amazon-linux-2023" title="LAMP Stack Installation on Amazon Linux 2023"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689518011417/5b53eabf-367d-44f7-b242-79e56cd2adf3.png" alt="LAMP Stack Installation on Amazon Linux 2023" width="250px" align="left" /></a>
-<a href="https://ayaan49.hashnode.dev//lamp-stack-installation-on-amazon-linux-2023" title="LAMP Stack Installation on Amazon Linux 2023"><strong>LAMP Stack Installation on Amazon Linux 2023</strong></a>
-<div><strong>16 July 2023</strong> | <strong>Updated: 16 July 2023</strong></div>
-<br/> Introduction
-"LAMP" stack is a group of four different open-source software technologies used to build websites and web applications. "LAMP" stands for Linux OS; Apache web server; MySQL database server; and PHP programming language.
-In this blog, we... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
